@@ -1,6 +1,6 @@
 # Hi 👋, We are ReSENSE Lab
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=resenselabs&label=Profile views&color=0e75b6&style=flat" alt="resenselabs" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=resenselabs&label=Profile views&color=0e75b6&style=flat" alt="resenselabs" /> </p> -->
 
 - 🔭 Our research team currently working on technological innovation through AI integration, developing platforms and embedded devices that support smart community services.**
 
